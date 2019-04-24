@@ -1,1 +1,1 @@
-# clickgame2
+# clickfoodgame
